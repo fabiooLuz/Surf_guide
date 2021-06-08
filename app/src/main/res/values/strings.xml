@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="titulo">Titulo</string>
+    <string name="descricao">Descrição</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="locais">
+        <item>Grumari</item>
+        <item>Prainha</item>
+        <item>Praia da Macumba</item>
+        <item>Canto do Recreio</item>
+        <item>Praia da Reserva</item>
+        <item>Praia da Barra</item>
+        <item>Arpoador</item>
+        <item>Itacoatiara</item>
+        <item>Itaúna - Saquarema</item>
+        <item>Praia Grande-Arraial</item>
+        <item>Praia do Forte-CF</item>
+        <item>Geriba-Búzios</item>
+        <item>Lopes Mendes</item>
+        <item>Cepilho-Paraty</item>
+    </string-array>
+
+    <string-array name="descricao">
+        <item>Grumari - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Prainha - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Praia da Macumba - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Canto do Recreio - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Praia da Reserva - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Praia da Barra - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Arpoador - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Itacoatiara - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Itauna - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Praia Grande-Arraial - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Praia do Forte-CF-Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Geriba-Búzios - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Lopes Mendes - Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+        <item>Cepilho-Paraty- Ut egestas lobortis tortor. Suspendisse consequat laoreet massa a viverra. Donec euismod est sit amet mauris ultrices, ac blandit nunc tincidunt.</item>
+    </string-array>
+</resources>
